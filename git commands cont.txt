@@ -1,0 +1,7 @@
+To get GitHub repo url go to the repository and click "clone or download".
+Copy that and paste it into "<enter github repo url>" in the command instructions.
+
+run after fixing folder names
+git add .
+git commit -m "My first commit"
+git push origin <enter github repo url>
