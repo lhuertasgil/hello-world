@@ -27,13 +27,8 @@ public class decrypt {
 		System.out.print(num2);
 		System.out.print(num3);
 		System.out.print(num4);
-
 		
 		scnr.close();
-		
-		
-		
-		
 		
 	}
 
