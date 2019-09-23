@@ -80,11 +80,12 @@ public class Polling {
                       System.out.print("         " + ratings[i][j]);
                System.out.println("      " + avgRating[i]);
         }
-       
+        
         System.out.println("Highest: "+ highestPointIssue + " " + highestPointTotal);
         System.out.println("Lowest: " + lowestPointIssue + " " +  lowestPointTotal);
 		
 		scnr.close();
+		
 	}
 
 }
